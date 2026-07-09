@@ -1,0 +1,28 @@
+From: Microsoft Account Team <security@microsoft-account-alerts.com>
+To: user@company.com
+Subject: Password Expiration Notice - Immediate Action Required
+Date: Wed, 08 Jul 2026 09:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary001"
+
+--boundary001
+Content-Type: text/plain; charset="utf-8"
+
+Dear User,
+
+Your Microsoft 365 password will expire today.
+
+Our security system detected unusual sign-in attempts from an unknown location.
+
+To prevent account suspension, please verify your identity immediately.
+
+Failure to complete verification within 2 hours will result in account restriction.
+
+Verify your account here:
+
+https://microsoft365-security-check.net/login
+
+Security Team
+Microsoft Account Protection
+
+--boundary001--

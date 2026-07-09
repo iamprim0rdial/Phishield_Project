@@ -1,18 +1,30 @@
-From: "IT Support Desk" <admin-portal@outlook.com>
-To: "Employee" <user@yourcompany.com>
-Subject: ⚠️ ACTION REQUIRED: Urgent Document Shared with You
+From: Slack Notifications <no-reply@slack.com>
+To: user@company.com
+Subject: New login detected on your Slack account
+Date: Fri, 10 Jul 2026 14:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary_slack_001"
 
-Dear Employee,
+--boundary_slack_001
+Content-Type: text/plain; charset="utf-8"
 
-Our security team has detected unusual activity associated with your corporate account login. To ensure your information remains secure, you are required to verify your credentials within the next 24 hours.
+Hi Team,
 
-Failure to verify your identity may result in temporary suspension of your email access.
+We noticed a new login to your Slack workspace from a new device or browser.
 
-Please click the secure link below to review your recent login activity and confirm your details:
+Details:
+• Device: Chrome Browser (Windows 11)
+• Location: Singapore
+• Time: July 10, 2026, at 2:10 PM UTC
 
-Verify Your Corporate Account Now [http://example.xyz/auth/login]
+If this was you, no further action is required. Enjoy chatting!
 
-If you did not initiate this request, please contact the IT Helpdesk immediately.
+If this wasn't you, please review your active sessions or contact your workspace administrator immediately to secure your account.
 
-Sincerely,
-IT Security Operations Team
+Review your account details here:
+https://slack.com
+
+Thanks,
+The Slack Security Team
+
+--boundary_slack_001--
